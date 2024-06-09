@@ -1,0 +1,51 @@
+.banner-img img {
+    width: 100%;
+    background-size: cover;
+}
+
+.banner-img-overlay {
+    position: absolute;
+    bottom: 12%;
+    left: 8%;
+    z-index: 100;
+}
+
+.banner-box {
+    background-color: #00000080;
+}
+
+.banner-box-h3 {
+    font-size: 60px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.banner-box-p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.banner-box-sp {
+    font-size: 16px;
+    font-weight: 550;
+    color: #ffffff;
+    border: none;
+    background-color: transparent;
+}
+
+.banner-cursor-arr {
+    font-size: 30px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.carousel-control-prev {
+    left: -70px;
+    bottom: -180px;
+}
+
+.carousel-control-next {
+    right: -70px;
+    bottom: -180px;
+}

@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+:root {
+  --body-font: "Poppins";
+  --first-color: #383737;
+  --second-color: #7A8084;
+  --third-color: #307FE2;
+}
+
+body {
+  font-family: var(--body-font);
+}

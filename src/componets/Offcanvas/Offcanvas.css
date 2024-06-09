@@ -1,0 +1,75 @@
+.sidebar {
+    width: 325px;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #ffffff;
+}
+
+.contentaria {
+    height: 100%;
+    margin-left: 325px;
+    background-color: #f8f8f8;
+}
+
+.sidebar-list ul a,
+.sidebar-list ul a span {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--third-color);
+    line-height: 52px;
+    text-decoration: none;
+}
+
+.sidebar-list ul li,
+.sidebar-list ul li span {
+    list-style: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: #7a8084;
+    line-height: 52px;
+}
+
+.contant-ct {
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.contant-ct::-webkit-scrollbar {
+    display: none;
+}
+
+.contant-icon button {
+    font-size: 45px;
+    font-weight: 500;
+    color: black;
+    position: fixed;
+    right: 30px;
+}
+
+.contant-h4 h4 {
+    font-size: 40px;
+    font-weight: 550;
+    color: var(--first-color);
+}
+
+.contant-p p {
+    font-size: 18px;
+    font-weight: 400;
+    color: var(--second-color);
+}
+
+.cars-btn h4 {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--first-color);
+}
+
+.cars-btn a,
+.cars-btn a span {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--third-color);
+    text-decoration: none;
+}

@@ -1,0 +1,145 @@
+.showicon span {
+    font-size: 35px;
+    font-weight: 500;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.showimg1 img {
+    width: 100%;
+    position: sticky;
+    background-size: cover;
+    margin-left: 130px;
+}
+
+.showimg2 img {
+    width: 100%;
+    position: sticky;
+    background-size: cover;
+    margin-left: -130px;
+}
+
+.showbtn button {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid var(--second-color);
+}
+
+.car-ct-bg {
+    background-color: #f8f8f8;
+}
+
+.car-h3 h3 {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--first-color);
+}
+
+.car-h6 h6 {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--first-color);
+}
+
+.car-p p {
+    font-size: 18px;
+    font-weight: 350;
+    color: var(--second-color);
+}
+
+.car-btn button,
+.car-btn button span {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--third-color);
+    border: none;
+    background-color: transparent;
+}
+
+.showbtn button span {
+    font-size: 12px;
+    color: black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.car-blue-bg {
+    background-color: #1864B3;
+}
+
+.car-red-bg {
+    background-color: #AC120A;
+}
+
+.car-grey-bg {
+    background-color: #38393B;
+}
+
+.car-white-bg {
+    background-color: #DCDDDF;
+}
+
+.car-fullblue-bg {
+    background-color: #00286F;
+}
+
+.car-yellow-bg {
+    background-color: #D0A53E;
+}
+
+.car-fullyellow-bg {
+    background-color: #A07F52;
+}
+
+.car-fullgrey-bg {
+    background-color: #7491A9;
+}
+
+.car-orange-bg {
+    background-color: #F54018;
+}
+
+.car-purple-bg {
+    background-color: #261866;
+}
+
+.bluebtn {
+    background-color: #1864B3;
+}
+
+.redbtn {
+    background-color: #AC120A;
+}
+
+.greybtn {
+    background-color: #38393B;
+}
+
+.whitebtn {
+    background-color: #DCDDDF;
+}
+
+.fullbluebtn {
+    background-color: #00286F;
+}
+
+.yellowbtn {
+    background-color: #D0A53E;
+}
+
+.fullyellowbtn {
+    background-color: #A07F52;
+}
+
+.fullgreybtn {
+    background-color: #7491A9;
+}
+
+.orangebtn {
+    background-color: #F54018;
+}
+
+.purplebtn {
+    background-color: #261866;
+}

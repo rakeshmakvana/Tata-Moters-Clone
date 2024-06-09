@@ -1,0 +1,28 @@
+.searchline {
+    background-color: var(--third-color);
+}
+
+.searchline-sp {
+    font-size: 20px;
+    font-weight: 500;
+    color: #003B84;
+}
+
+.searchline-h6 {
+    font-size: 20px;
+    font-weight: 550;
+    color: #ffffff;
+    border-bottom: 2px solid #003B84;
+}
+
+.searchline-sp2 {
+    font-size: 25px;
+    font-weight: 500;
+    color: #003B84;
+}
+
+.searchline-btn {
+    border: 2px solid #ffffff;
+    background-color: transparent;
+    color: #ffffff;
+}
